@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Im A Student at Vocational High School in Surakarta, to be exact SMKN 6 Surakarta, Im Still learning and developing my skills for my future, im looking to be a ai engineer and web developer/fullstack. Im looking for new experiences that will help me. I enjoy designing web <br>
+Hello I'm Donald! 
+<br>
 
 
 ## 🌐 Socials:
