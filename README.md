@@ -1,6 +1,5 @@
 ## Heyho Peeps!!
 
-# 💫 About Me:
 I'm Donald!
 <br>
 
