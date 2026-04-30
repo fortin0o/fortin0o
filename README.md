@@ -1,7 +1,7 @@
-## Hi there 👋
+## Heyho Peeps!!
 
 # 💫 About Me:
-Hello I'm Donald! 
+I'm Donald!
 <br>
 
 
