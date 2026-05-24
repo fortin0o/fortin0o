@@ -1,7 +1,7 @@
 ## Heyho Peeps!!
 
 I'm Donald Terrifortino! 
-I'm a Student at Vocational High School & Beginner Developer from Indonesia, and currently learning web development with Laravel, PHP, JavaScript, and MySQL. I'm interested in UI/UX design, making a character ingame, and also building a game. I'd love to learn new things and improve my coding skills. 
+I'm a Student at Vocational High School & Beginner Developer from Indonesia, and currently learning web development and android with Laravel, PHP, JavaScript, Kotlin and MySQL. I'm interested in UI/UX design, making a character ingame, and also building a game. I'd love to learn new things and improve my coding skills. 
 <br>
 
 
