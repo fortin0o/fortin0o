@@ -3,15 +3,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpZnhjb3gycno3dHg5M3U5OTQ1eWN6YmcyZTJ4MjY0c3p6ajNqdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JH9kLs3CrKDcY/giphy.gif" alt="Snoopy Dancing Banner" width="50%" />
 </p>
 
-# Heyho Peeps! I'm Donald 👋
+# Heyho Peeps! I'm Donald 
 
-### 🚀 About Me
+### About Me
 
 I am a developer who loves exploring modern web technologies, ranging from solid system architectures to immersive 3D visual interactions.
 
-- 🛠️ **Currently Tinkering With:** Building interactive web applications and optimizing feature logic on both the frontend and backend.
-- 🌱 **Current Learning Focus:** Deepening my knowledge in the modern web ecosystem and immersive technologies (AR/3D).
-- 🎯 **Future Horizons:** Keen to dive into Cloud Computing and Data Science to process and analyze large-scale data.
+-  **Currently Tinkering With:** Building interactive web applications and optimizing feature logic on both the frontend and backend.
+-  **Current Learning Focus:** Deepening my knowledge in the modern web ecosystem and immersive technologies (AR/3D).
+-  **Future Horizons:** Keen to dive into Cloud Computing and Data Science to process and analyze large-scale data.
 
 ---
 
