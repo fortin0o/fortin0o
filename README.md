@@ -34,19 +34,6 @@ I am a developer who loves exploring modern web technologies, ranging from solid
 
 ---
 
-### 📊 My GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fortin0o&show_icons=true&theme=tokyonight&title_color=ffc72c&text_color=ffffff" alt="Donald's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortin0o&theme=tokyonight&ring=ffc72c&fire=ffc72c" alt="Donald's GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortin0o&layout=compact&theme=tokyonight&title_color=ffc72c&text_color=ffffff&langs_count=6" alt="Donald's Most Used Languages" width="64%"/>
-</p>
-
----
-
 <p align="left">
   <a href="https://www.instagram.com/donaldtf_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Donald's Instagram" />
