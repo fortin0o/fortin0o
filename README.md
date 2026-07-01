@@ -1,6 +1,6 @@
 <!-- Main Banner: Animated Snoopy Waving -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fVsq10m0aH3A595T9P/giphy.gif" alt="Snoopy Waving Banner" width="100%" />
+  <img src="[[https://media.giphy.com/media/fVsq10m0aH3A595T9P/giphy.gif" alt="Snoopy Waving Banner" width="100%]](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpZnhjb3gycno3dHg5M3U5OTQ1eWN6YmcyZTJ4MjY0c3p6ajNqdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JH9kLs3CrKDcY/giphy.gif)" />
 </p>
 
 # Heyho Peeps! I'm Donald 👋
