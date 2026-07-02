@@ -42,3 +42,5 @@ I am a developer who loves exploring modern web technologies, ranging from solid
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Donald's Email" />
   </a>
 </p>
+
+"Don't collect frameworks. Collect understanding."
